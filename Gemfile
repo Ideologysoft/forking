@@ -41,5 +41,6 @@ gem 'spring',        group: :development
 
 gem 'quiet_assets'
 
-gem 'carrierwave'
 
+gem 'carrierwave'
+gem 'rmagick'
