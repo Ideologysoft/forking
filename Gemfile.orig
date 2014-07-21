@@ -38,8 +38,8 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-
+<<<<<<< HEAD
 gem 'quiet_assets'
-
+=======
 gem 'carrierwave'
-
+>>>>>>> b914c3d42062531870aae63d4587b8ec96285a9f
